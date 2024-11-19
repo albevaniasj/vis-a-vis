@@ -1,4 +1,3 @@
-// Variáveis globais para o jogo
 let currentStage = 0;
 const storyText = document.getElementById("story");
 const gameScreen = document.getElementById("game-screen");
